@@ -2,3 +2,4 @@
 - Feeling good is a general sense of well-being – a **mood**, not an emotion.
 - Aim to FEEL GOOD each moment.
 - If you notice a dip, **first [[get back]] to feeling good**. Then, within 30 minutes, **suss out** **where, when, how, why – and what for** – the dip occurred to nip it in the bud next time.
+	- {{embed [[get back]]}}

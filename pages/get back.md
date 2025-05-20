@@ -1,0 +1,2 @@
+- Why get back to feeling good?
+	- Because it is counter-productive to do anything whilst feeling bad. You are likely to go around in circles!

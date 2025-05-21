@@ -421,4 +421,6 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :publishing/all-pages-public? true
- :default-home {:page "Feeling Good"}}
+ :default-home {:page "Feeling Good"}
+ :feature/enable-whiteboards? false
+ :feature/enable-flashcards? false}

@@ -1,4 +1,4 @@
-- A diminishment in the feeling good, leading to either feeling neutral or bad.
+- A diminishment in the [feeling good]([[Feeling Good]]), leading to either feeling neutral or bad.
 - As one gets better at this, it becomes possible to notice subtle variations in one's mood (minuscule blips & minor dips) well before any major diminutions.
   id:: 682d28ca-238d-41ab-8f17-2f1a421d6692
 	- #+BEGIN_QUOTE

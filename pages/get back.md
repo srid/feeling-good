@@ -1,4 +1,4 @@
-- **Why** get back to feeling good?
+- **Why** get back to [feeling good]([[Feeling Good]])?
 	- Because it is counter-productive to do anything (including [sussing out](suss out)) whilst feeling bad, as you are likely to go around in circles!
 	  collapsed:: true
 		- #+BEGIN_QUOTE
@@ -10,12 +10,12 @@
 		  
 		  Source: [AFT](https://www.actualfreedom.com.au/richard/articles/thismomentofbeingalive.htm)
 		  #+END_QUOTE
-- **Unable** to get back to feeling good?
+- **Unable** to get back to [feeling good]([[Feeling Good]])?
 	- You simply see how silly it is to waste this only moment of being alive by feeling bad (see below), and if that doesn't work do something to take your mind off the current issue.
 		- #+BEGIN_QUOTE
-		  RESPONDENT No 23: What about when I find out what happened to end feeling good and I see that it is silly to keep worrying about it yet that doesn’t stop the worrying and I am not back to feeling good?
+		  RESPONDENT No 23: What about when I find out what happened to end [feeling good]([[Feeling Good]]) and I see that it is silly to keep worrying about it yet that doesn’t stop the worrying and I am not back to [feeling good]([[Feeling Good]])?
 		  
-		  RICHARD: Two things immediately leap to mind ... (1) you value feeling worry (a feeling of anxious concern) over [feeling good]([[Feeling Good]]) (a general sense of well-being) ... and (2) you have not really seen it is silly to feel bad (a general sense of ill-being). What I would suggest, at this point, is to feel the silliness of feeling bad (in this case feeling anxiety) ... then the seeing (as in a realisation) might very well have the desired effect (as in an actualisation) of once more feeling good.
+		  RICHARD: Two things immediately leap to mind ... (1) you value feeling worry (a feeling of anxious concern) over [feeling good]([[Feeling Good]]) (a general sense of well-being) ... and (2) you have not really seen it is silly to feel bad (a general sense of ill-being). What I would suggest, at this point, is to feel the silliness of feeling bad (in this case feeling anxiety) ... then the seeing (as in a realisation) might very well have the desired effect (as in an actualisation) of once more [feeling good]([[Feeling Good]]).
 		  
 		  RESPONDENT: a) I am not able to see the silliness of feeling bad ...
 		  

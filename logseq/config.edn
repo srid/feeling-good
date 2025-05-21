@@ -423,4 +423,5 @@
  :publishing/all-pages-public? true
  :default-home {:page "Feeling Good"}
  :feature/enable-whiteboards? false
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? false
+ :feature/enable-timetracking? false}

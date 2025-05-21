@@ -1,7 +1,5 @@
 - Aim to **feel good**[^def] as a bottom line each moment **come what may**.
-	- Feeling good is a general sense of well-being – a **mood**, not an emotion.
-	- Feeling good naturally means you are cheerfully participating ([[intimately approving]]) in being here, hence no resentment.
-- If you notice a [[diminishment]], **first [[get back]] to feeling good**. Then, within 30 minutes, **[[suss out]] where, when, how, why – and what for** – the [[diminishment]] occurred to nip it in the bud next time.
+- If you notice a [[diminishment]], **first [[get back]] to feeling good**. Then, within 30 minutes, [[suss out]] where, when, how, why – and what for – the [[diminishment]] occurred to nip it in the bud next time.
 	- Once you get good at this, upgrade your practice by [noticing subtler variations](((682d28ca-238d-41ab-8f17-2f1a421d6692))).
 - The whole process is extremely simple, and you'll increasingly feel *better and better*.
 	- #+BEGIN_QUOTE
@@ -12,4 +10,4 @@
 - Footnotes
 	- [^def]: What is 'feeling good'?
 		- Feeling good is a general sense of well-being – a **mood**, not an emotion.
-		- Feeling good wnaturally means you are cheerfully participating ([[intimately approving]]) in being here, hence no resentment.
+		- Feeling good naturally means you are cheerfully participating ([[intimately approving]]) in being here, hence no resentment.

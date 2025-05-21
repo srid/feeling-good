@@ -15,7 +15,7 @@
 		- #+BEGIN_QUOTE
 		  RESPONDENT No 23: What about when I find out what happened to end feeling good and I see that it is silly to keep worrying about it yet that doesn’t stop the worrying and I am not back to feeling good?
 		  
-		  RICHARD: Two things immediately leap to mind ... (1) you value feeling worry (a feeling of anxious concern) over [feeling good](Feeling Good) (a general sense of well-being) ... and (2) you have not really seen it is silly to feel bad (a general sense of ill-being). What I would suggest, at this point, is to feel the silliness of feeling bad (in this case feeling anxiety) ... then the seeing (as in a realisation) might very well have the desired effect (as in an actualisation) of once more feeling good.
+		  RICHARD: Two things immediately leap to mind ... (1) you value feeling worry (a feeling of anxious concern) over [feeling good]([[Feeling Good]]) (a general sense of well-being) ... and (2) you have not really seen it is silly to feel bad (a general sense of ill-being). What I would suggest, at this point, is to feel the silliness of feeling bad (in this case feeling anxiety) ... then the seeing (as in a realisation) might very well have the desired effect (as in an actualisation) of once more feeling good.
 		  
 		  RESPONDENT: a) I am not able to see the silliness of feeling bad ...
 		  

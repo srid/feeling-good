@@ -8,7 +8,7 @@
 	  
 	  [Sunday 1/05/2005 11:44 AM AEST](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-method5.htm)
 	  #+END_QUOTE
-- Footnotes
+- Footnotes:
 	- [^def]: What is 'feeling good'?
 		- Feeling good is a general sense of well-being – a **mood**, not an emotion.
 		- Feeling good naturally means you are [cheerfully participating]([[appreciation]]) in being here, hence no resentment.

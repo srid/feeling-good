@@ -11,4 +11,4 @@
 - Footnotes
 	- [^def]: What is 'feeling good'?
 		- Feeling good is a general sense of well-being – a **mood**, not an emotion.
-		- Feeling good naturally means you are cheerfully participating ([[intimately approving]]) in being here, hence no resentment.
+		- Feeling good naturally means you are [cheerfully participating]([[appreciation]]) in being here, hence no resentment.

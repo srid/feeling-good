@@ -22,7 +22,7 @@
 		  
 		  If so, do you further comprehend that anytime you felt good/will feel good does not mean a thing if you are not [feeling good]([[Feeling Good]]) now ... that a remembered occasion/an anticipated occasion pales into insignificance if you are feeling bad now?
 		  
-		  Furthermore, do you understand that to be living this moment – the only moment you are ever alive – by feeling bad is to be frittering away a vital opportunity to be fully alive ... to totally enjoy and appreciate being what you indubitably are (a sensate creature) whilst you are here on this planet?
+		  Furthermore, do you understand that to be living this moment – the only moment you are ever alive – by feeling bad is to be frittering away a vital opportunity to be fully alive ... to totally enjoy and [appreciate]([[appreciation]]) being what you indubitably are (a sensate creature) whilst you are here on this planet?
 		  
 		  If so, is it not silly to waste this only moment you are ever alive by feeling bad ... when you could be [feeling good]([[Feeling Good]])?
 		  

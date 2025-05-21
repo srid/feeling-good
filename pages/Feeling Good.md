@@ -1,6 +1,6 @@
 - Aim to **feel good**[^def] as a bottom line each moment **come what may**.
 	- To ensure success, make it your [[overriding priority]] in life.
-- If you notice a [[diminishment]], first [[get back]] to feeling good. Then, within 30 minutes, [[suss out]] where, when, how, why – and what for – the [[diminishment]] occurred to [[nip it in the bud next]] time.
+- If you notice a [[diminishment]], first [[get back]] to feeling good. Then, within 30 minutes, [[suss out]] where, when, how, why – and what for – the [[diminishment]] occurred to [[nip it in the bud]] the next time it pops up.
 	- As you get good at this, upgrade your practice by [noticing subtler variations](((682d28ca-238d-41ab-8f17-2f1a421d6692))).
 - The whole process is extremely simple, and you'll be increasingly feel *better and better*.
 	- #+BEGIN_QUOTE

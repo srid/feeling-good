@@ -12,3 +12,4 @@
 	- [^def]: What is 'feeling good'?
 		- Feeling good is a general sense of well-being – a **mood**, not an emotion.
 		- Feeling good naturally means you are [cheerfully participating]([[appreciation]]) in being here, hence no resentment.
+		- For actualists reading this, feeling good is foundation of the [[Actualism Method]] .

@@ -1,5 +1,5 @@
 - Aim to **feel good**[^def] as a bottom line each moment **come what may**.
-	- To ensure success, make it your [[overriding priority]] in life.
+	- To ensure success, make it your [[overriding priority]] in life with sufficient [[intestinal fortitude]].
 - If you notice a [[diminishment]], first [[get back]] to feeling good. Then, within 30 minutes, [[suss out]] where, when, how, why – and what for – the [[diminishment]] occurred to [[nip it in the bud]] the next time it pops up.
 	- As you get good at this, upgrade your practice by [noticing subtler variations](((682d28ca-238d-41ab-8f17-2f1a421d6692))).
 - The whole process is extremely simple, and you'll increasingly feel *better and better*.
@@ -12,4 +12,5 @@
 	- [^def]: What is 'feeling good'?
 		- Feeling good is a general sense of well-being – a **mood**, not an emotion.
 		- Feeling good naturally means you are [cheerfully participating]([[appreciation]]) in being here, hence no resentment.
-		- For actualists reading this, feeling good is foundation of the [[Actualism Method]] .
+		- Feeling good leads to the [[dissolution]] of the identity
+		- For actualists reading this: feeling good is foundation of the [[Actualism Method]] .

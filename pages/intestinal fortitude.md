@@ -1,0 +1,5 @@
+- #+BEGIN_QUOTE
+  RICHARD: ‘I’ do not make perfection happen because it is already always here. What ‘I’ do is to ‘stand still’ and unreservedly allow ‘my’ eventual demise to occur. To do this, ‘I’ cease believing, hoping, trusting and having faith ... without falling into disbelief, despair, distrust or doubt. ‘I’, having the courage of ‘my’ convictions – which is the confidence born out of the solid knowing as evidenced in the peak experience – thus developing a superb confidence and an overweening optimism. Thus nothing can stand in ‘my’ way in this, the adventure of a life-time. ==It is not for the faint of heart or the weak of knee== ... but pure intent, born out of the connection between one’s inherent naiveté and the perfection of the infinitude of this physical universe, will provide one with ==the necessary intestinal fortitude==.
+  
+  https://www.actualfreedom.com.au/richard/selectedcorrespondence/sc-perfection.htm
+  #+END_QUOTE

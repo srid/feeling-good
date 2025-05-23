@@ -11,3 +11,4 @@
 	  
 	  Source: [Richard's SC On How To Become Free of the Human Condition](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-method5.htm) 
 	  #+END_QUOTE
+- When things get difficult, you will need the requisite [[intestinal fortitude]]

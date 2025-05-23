@@ -32,6 +32,14 @@
 		  
 		  Source: [AFT](https://www.actualfreedom.com.au/richard/articles/thismomentofbeingalive.htm)
 		  #+END_QUOTE
+	- One specific way this sort of .. umm ... psychic masturbation operates is via *"analysing and/or psychologising and/or philosophising*"
+		- #+BEGIN_QUOTE
+		  [Richard]: ‘ ... the more one enjoys and [appreciates]([[appreciation]]) being just here right now – to the point of excellence being the norm – the greater the likelihood of a PCE happening ... a grim and/or glum person has no chance whatsoever of allowing the magical event, which indubitably shows where everyone has being going awry, to occur. Plus **any analysing and/or psychologising and/or philosophising whilst one is in the grip of debilitating feelings usually does not achieve much (other than spiralling around and around in varying degrees of despair and despondency or whatever) anyway**.
+		  The wide and wondrous path to an actual freedom from the human condition is marked by enjoyment and [appreciation]([[appreciation]]) – the sheer delight of being as [happy]([[Feeling Good]]) and harmless as is humanly possible whilst remaining a ‘self’ – and the slightest [[diminishment]] of such felicity and innocuity is a warning signal (a flashing red light as it were) that one has inadvertently wandered off the way.
+		  One is thus soon [back on track]([[get back]]) ... and all because of everyday events. [emphasis added]
+		  
+		  https://actualfreedom.com.au/sundry/frequentquestions/FAQ57a.htm
+		  #+END_QUOTE
 - **Unable** to get back to [feeling good]([[Feeling Good]])?
 	- You simply see how silly it is to waste this only moment of being alive by feeling bad (see below), and if that doesn't work do something to take your mind off the current issue.
 		- #+BEGIN_QUOTE
